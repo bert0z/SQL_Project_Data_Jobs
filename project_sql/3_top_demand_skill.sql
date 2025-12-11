@@ -1,3 +1,7 @@
+/*
+Question: What are the most in demand skills?
+*/
+
 SELECT
     skills,
     COUNT(skills_job_dim.job_id) as demand_count

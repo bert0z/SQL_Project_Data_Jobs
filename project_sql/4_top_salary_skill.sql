@@ -1,3 +1,7 @@
+/*
+Question: What are the skills for top paying jobs for Data Analyst?
+*/
+
 SELECT
     skills,
     ROUND(AVG(salary_year_avg), 2)as avg_salary

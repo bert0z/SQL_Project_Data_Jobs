@@ -1,3 +1,7 @@
+/*
+Question: What are best skills to learn that are in high demand and high paying Data Analyst?
+*/
+
 WITH skills_demand AS (
     SELECT
         skills_dim.skill_id,
